@@ -50,9 +50,9 @@ class TaskManager {
         console.log("-----------------\n");
     }
 }
-// ==========================================
+
 // Demonstration of Functionality
-// ==========================================
+
 // Instantiate TaskManager
 const taskManager = new TaskManager();
 // Adding tasks
