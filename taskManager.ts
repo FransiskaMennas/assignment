@@ -49,9 +49,9 @@ class TaskManager {
     }
 }
 
-// ==========================================
+
 // Demonstration of Functionality
-// ==========================================
+
 
 // Instantiate TaskManager
 const taskManager = new TaskManager();
